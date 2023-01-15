@@ -72,7 +72,7 @@ int32_t main()
     {
         int n;
         cout << endl
-             << "1 -> Insert" << endl
+             << "1 -> Push" << endl
              << "2 -> Pop" << endl
              << "3 -> Peek" << endl
              << "4 -> Exit" << endl;

@@ -24,7 +24,7 @@ public:
 };
 
 listNode *head;
-
+listNode *rear;
 void insert()
 {
     int n;
